@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\4.9.24\bin\Debug\net8.0\4.9.24.exe
+C:\Users\Danny\source\repos\4.9.24\bin\Debug\net8.0\4.9.24.deps.json
+C:\Users\Danny\source\repos\4.9.24\bin\Debug\net8.0\4.9.24.runtimeconfig.json
+C:\Users\Danny\source\repos\4.9.24\bin\Debug\net8.0\4.9.24.dll
+C:\Users\Danny\source\repos\4.9.24\bin\Debug\net8.0\4.9.24.pdb
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.AssemblyInfo.cs
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.dll
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\refint\4.9.24.dll
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.pdb
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\4.9.24.genruntimeconfig.cache
+C:\Users\Danny\source\repos\4.9.24\obj\Debug\net8.0\ref\4.9.24.dll
